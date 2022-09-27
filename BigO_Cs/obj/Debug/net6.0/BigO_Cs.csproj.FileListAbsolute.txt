@@ -1,0 +1,15 @@
+D:\magang\September\Minggu 3\23 September\BigO_Cs\bin\Debug\net6.0\BigO_Cs.exe
+D:\magang\September\Minggu 3\23 September\BigO_Cs\bin\Debug\net6.0\BigO_Cs.deps.json
+D:\magang\September\Minggu 3\23 September\BigO_Cs\bin\Debug\net6.0\BigO_Cs.runtimeconfig.json
+D:\magang\September\Minggu 3\23 September\BigO_Cs\bin\Debug\net6.0\BigO_Cs.dll
+D:\magang\September\Minggu 3\23 September\BigO_Cs\bin\Debug\net6.0\BigO_Cs.pdb
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.csproj.AssemblyReference.cache
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.AssemblyInfoInputs.cache
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.AssemblyInfo.cs
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.csproj.CoreCompileInputs.cache
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.dll
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\refint\BigO_Cs.dll
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.pdb
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\BigO_Cs.genruntimeconfig.cache
+D:\magang\September\Minggu 3\23 September\BigO_Cs\obj\Debug\net6.0\ref\BigO_Cs.dll
